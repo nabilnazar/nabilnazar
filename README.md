@@ -1,10 +1,10 @@
 <h1 align="center"> Hi 👋, I'm Nabil Nazar</h1>
 <h3 align="center">Mobile Application Developer Android | Flutter | React Native </h3>
 
-[![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+<!--[![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]-->
 [![Twitter Follow](https://img.shields.io/twitter/follow/nabilnazarp?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
-<!--[![GitHub followers](https://img.shields.io/github/followers/JohannesMilke?logo=GitHub&style=for-the-badge)][github] -->
-[![Linkedin: JohannesMilke](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/nabilnazarp/)][linkedin]
+[![GitHub followers](https://img.shields.io/github/followers/nabilnazar?logo=GitHub&style=for-the-badge)][github] 
+[![Linkedin: nabilnazarp](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/nabilnazarp/)][linkedin]
 
 - 🔭 &ensp;I’m currently working on Mobile Application Development!
 - 🌱 &ensp;I’m currently learning New Trends In App Development ❤️
@@ -27,7 +27,6 @@
 
 <br />
 <br />
-<!--
 ### Languages and Tools
 [<img align="left" alt=“Flutter” width="26px" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />][youtube]
 [<img align="left" alt=“Firebase” width="26px" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" />][youtube]
