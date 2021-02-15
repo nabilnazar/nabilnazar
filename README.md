@@ -17,4 +17,4 @@
 
 [Linkedin]:https://www.linkedin.com/in/nabilnazarp/
 [Github]:https://github.com/nabilnazar
-[Twitter]:https://www.twitter.com/in/nabilnazarp/
+[Twitter]:https://twitter.com/nabilnazarp
