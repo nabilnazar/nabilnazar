@@ -12,6 +12,10 @@
 - 🗿 &ensp;I started my career as an Android Developer, it has been more than 3 years
 - ⚡ &ensp;Fun fact:When I make a humour, well no one will laugh and some guys take it as seroiuse matter. 
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+</p>
 ---
 
 [Linkedin]:https://www.linkedin.com/in/nabilnazarp/
