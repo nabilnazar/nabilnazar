@@ -5,7 +5,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/nabilnazarp?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][Twitter]
 [![GitHub followers](https://img.shields.io/github/followers/nabilnazar?logo=GitHub&style=for-the-badge)][Github]
 [![Linkedin: nabilnazarp](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/nabilnazarp/)][Linkedin]
-
+<img align="center" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=nabilnazar.nabilnazar&color=00cf00&style=for-the-badge" alt="visitors" />
 - 🔭 &ensp;I’m currently working on Mobile Application Development!
 - 🌱 &ensp;I’m currently learning New Trends In App Development ❤️
 - 👯 &ensp;I’m looking to collaborate with other content creators
