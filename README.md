@@ -11,7 +11,7 @@
 - 👯 &ensp;I’m looking to collaborate with other content creators
 - 🗿 &ensp;I started my career as an Android Developer, it has been more than 3 years
 - ⚡ &ensp;Fun fact:When I make a humour, well no one will laugh and some guys take it as seroiuse matter. 
-- 📫 &ensp;How to reach me: [**Linkedin**][Linkedin]
+-
 
 ---
 
