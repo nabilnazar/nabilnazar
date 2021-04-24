@@ -15,10 +15,6 @@
 - 🗿 &ensp;I started my career as an Android Developer, it has been more than 3 years
 - ⚡ &ensp;Fun fact:Every time I make plans to eat better, I can hear my stomach laughing. 
 
-<p align="center"> 
-  Visitor count<br>
-<img align="center" src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=nabilnazar.nabilnazar&color=00cf00&style=for-the-badge" alt="visitors" />
-</p>
 
 
 [Linkedin]:https://www.linkedin.com/in/nabilnazarp/
