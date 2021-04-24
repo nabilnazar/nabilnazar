@@ -1,4 +1,4 @@
-<h1 align="center"> Hi 👋, I'm Nabil Nazar</h1>
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nabil Nazar</h1>
 <h3 align="center">Mobile Application Developer Android | Flutter | React Native </h3>
 
 <!--[![Youtube](https://img.shields.io/static/v1?label=JohannesMilke&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]-->
