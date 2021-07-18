@@ -12,7 +12,7 @@
 - 🔭 &ensp;I’m currently working on Mobile Application Development!
 - 🌱 &ensp;I’m currently learning New Trends In App Development ❤️
 - 👯 &ensp;I’m looking to collaborate with other content creators
-- 🗿 &ensp;I started my career as an Android Developer, it has been more than 3 years
+- 🗿 &ensp;I started my career as an Android Developer, it has been more than 4 years
 - ⚡ &ensp;Fun fact:Every time I make plans to eat better, I can hear my stomach laughing. 
 
 
