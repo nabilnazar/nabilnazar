@@ -6,7 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/nabilnazarp?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][Twitter]
 [![GitHub followers](https://img.shields.io/github/followers/nabilnazar?logo=GitHub&style=for-the-badge)][Github]
 [![Linkedin: nabilnazarp](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/nabilnazarp/)][Linkedin]
- />
+ 
 
 
 - 🔭 &ensp;I’m currently working on Mobile Application Development!
