@@ -3,9 +3,8 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/nabilnazarp?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][Twitter]
-[![GitHub followers](https://img.shields.io/github/followers/nabilnazar?logo=GitHub&style=for-the-badge)][Github]
 [![Linkedin: nabilnazarp](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/nabilnazarp/)][Linkedin]
-[![Visit Website](https://img.shields.io/badge/-Visit-green?style=for-the-badge&logo=internet-explorer&link=https://nabilnazar.super.site/)][website]
+[![Portfolio Website](https://img.shields.io/badge/-Visit-green?style=for-the-badge&logo=internet-explorer&link=https://nabilnazar.super.site/)][website]
  
 
 
@@ -18,6 +17,5 @@
 
 
 [Linkedin]:https://www.linkedin.com/in/nabilnazarp/
-[Github]:https://github.com/nabilnazar
 [Twitter]:https://twitter.com/nabilnazarp
 [website]:https://nabilnazar.super.site/
