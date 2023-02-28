@@ -10,7 +10,7 @@
 
 - 🔭 &ensp;I’m currently working on Mobile Application Development!
 - 🌱 &ensp;I’m currently learning New Trends In App Development ❤️
-- 👯 &ensp;I’m looking to collaborate with other content creators
+- 👯 &ensp;I’m looking to collaborate with other developers 
 - 🗿 &ensp;I started my career as an Android Developer, it has been more than 4 years
  
 
