@@ -1,5 +1,5 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Nabil Nazar</h1>
-<h3 align="center">Mobile Application Developer Android | Flutter | React Native </h3>
+<h3 align="center">Mobile Application Developer Android | Kotlin </h3>
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/nabilnazarp?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][Twitter]
